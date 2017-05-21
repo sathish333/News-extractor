@@ -1,5 +1,5 @@
 # News-extractor
-Used to fetch breaking news from Indiatoday
+Used to fetch breaking news from Indiatoday.
 
 #Requiremnts:
 1.pip install requests
